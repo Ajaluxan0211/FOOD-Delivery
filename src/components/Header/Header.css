@@ -38,6 +38,10 @@
     padding:1vw 2vw;
     border-radius: 50px;
     cursor: pointer;
+      transition: scale 0.3s ease;
     
 
+}
+.header-contents button:hover{
+    scale: .6;
 }
